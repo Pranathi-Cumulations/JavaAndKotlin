@@ -1,0 +1,1 @@
+data class KotlinClass(var type : String)
